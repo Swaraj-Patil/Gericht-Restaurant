@@ -1,7 +1,7 @@
 # Gericht-Restaurant
 
 # Restaurant Landing Page
-### [Live Site]([https://gericht-restaurant.com/](https://swaraj-patil.github.io/gericht-restaurant/))
+### [Live Site]([https://gericht-restaurant.com/](https://swaraj-patil.github.io/Gericht-Restaurant/))
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
