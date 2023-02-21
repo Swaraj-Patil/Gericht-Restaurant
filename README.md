@@ -1,7 +1,7 @@
 # Gericht-Restaurant
 
 # Restaurant Landing Page
-### [Live Site]([https://restaurante-gerichte.netlify.app/])
+### [Live Site](https://restaurante-gerichte.netlify.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
